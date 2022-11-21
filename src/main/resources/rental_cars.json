@@ -1,0 +1,32 @@
+[
+  {
+    "city": "shaleport",
+    "kind": "rental cars",
+    "title": "Al's Amphibious Automobiles"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental cars",
+    "title": "Speedy's"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental cars",
+    "title": "Slow Rollers"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental cars",
+    "title": "Nothin' But Bikes"
+  },
+  {
+    "city": "rustburg",
+    "kind": "rental cars",
+    "title": "clank's clunks"
+  },
+  {
+    "city": "rustburg",
+    "kind": "rental cars",
+    "title": "Lulul's Lemons"
+  }
+]

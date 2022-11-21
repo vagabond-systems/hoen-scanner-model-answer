@@ -1,0 +1,47 @@
+[
+  {
+    "city": "shaleport",
+    "kind": "hotel",
+    "title": "Aquarius Landing"
+  },
+  {
+    "city": "shaleport",
+    "kind": "hotel",
+    "title": "Beachbound hostel"
+  },
+  {
+    "city": "shaleport",
+    "kind": "hotel",
+    "title": "The Spritz"
+  },
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Garden Cottage"
+  },
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Hillside Inn"
+  },
+  {
+    "city": "rustburg",
+    "kind": "hotel",
+    "title": "Cozy Burgs Bed and Breakfast"
+  },
+  {
+    "city": "rustburg",
+    "kind": "hotel",
+    "title": "Crusty Crone Inn"
+  },
+  {
+    "city": "rustburg",
+    "kind": "hotel",
+    "title": "The Idle Crumb Hotel"
+  },
+  {
+    "city": "rustburg",
+    "kind": "hotel",
+    "title": "The Shack"
+  }
+]
